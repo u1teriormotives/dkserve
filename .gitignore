@@ -1,0 +1,10 @@
+bin
+bin/*
+obj
+obj/*
+Properties
+Properties/*
+C#.sln
+index.html
+DKRoute.json
+test.js
